@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HaeWonCho&fontSize=70&animation=twinkling)
 
 ## Hi Everyone 👋  
-####  Hello, I’m haewon Cho!    
+####  I’m haewon Cho!    
     🎓 I will graduate from Department of Software, Sungkyunkwan University   
     💻 Now i'm interested in Image AI & Data Analysis
 
