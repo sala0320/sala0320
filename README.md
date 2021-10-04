@@ -8,7 +8,6 @@
 <br/>  
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -18,10 +17,9 @@
 <img src="https://img.shields.io/badge/Android-32CD32?style=flat-square&logo=Android&logoColor=white"/></a>
 </p>
 
-<br/>  
-<p align="center">
-
+    
 ## Github Stats  
+    
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sala0320&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
