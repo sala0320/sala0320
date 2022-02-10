@@ -22,8 +22,7 @@
 
 <hr>
 <div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsala0320&count_bg=%23659C3B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+    
 <a href="mailto:sala0320@naver.com">
 <img
 src="https://img.shields.io/badge/Mail-brightgreen?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sala0320@naver.com"
@@ -34,5 +33,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 src="http://img.shields.io/badge/Portfolio-black?style=flat-square&logo=Notion&link=https://haewons.notion.site/Cho-Hae-Won-64d7e0924b854a0f8f6fd673667d5c49"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsala0320&count_bg=%23659C3B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
 </div>
