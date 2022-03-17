@@ -6,7 +6,6 @@
     💻 Interested in Compter Vision & Data Analysis
 ### 💬 Contact & More Info
 [![메일](https://img.shields.io/badge/ContactMail-brightgreen?style=round-square&logo=Gmail&logoColor=white&link=mailto:sala0320@naver.com)](mailto:sala0320@naver.com)
-[![포트폴리오](http://img.shields.io/badge/Portfolio-black?style=round-square&logo=Notion&link=https://haewons.notion.site/Cho-Hae-Won-64d7e0924b854a0f8f6fd673667d5c49)](https://haewons.notion.site/Cho-Hae-Won-64d7e0924b854a0f8f6fd673667d5c49)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sala0320)](https://solved.ac/sala0320)
 
