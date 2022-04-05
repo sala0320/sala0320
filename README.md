@@ -23,7 +23,9 @@
 <summary>👩‍💻 Career</summary>
 </br> 
 
-- `2022.03 ~ 2022.05` __업스테이지 UpStage Intern__  - AI Product/Engine팀 
+- `2022.04 ~ cotinue` __현대모비스 Mobis__ - 전장BU 멀티미디어섹터
+    > PL
+- `2022.03 ~ 2022.04` __업스테이지 UpStage Intern__  - AI Product/Engine팀 
     > OCR, SynthData
 - `2021.03 ~ 2021.05` __누비랩 NuviLab Intern__ - Future tech 팀
     > Instance Segmentation, Clustering
